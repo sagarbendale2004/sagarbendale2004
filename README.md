@@ -53,7 +53,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sagarbendale2004" alt="sagarbendale2004" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sagarbendale2004&theme=nord&column=6&row=1" alt="sagarbendale2004" />
   </a>
 </p>
 <br />
