@@ -50,6 +50,13 @@
   </a> 
 </p> 
 
+<h3 align="left"> GSSOC(24) Badges 🪶</h3>
+<div style='display:flex; align-items:start; gap: 10px;' align='start'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+ </a>
+</div>
+
 <br/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -58,13 +65,16 @@
 </p>
 <br />
 
-<p>
+<div>
+  <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbendale2004&show_icons=true&locale=en&layout=compact" alt="sagarbendale2004"/>
 </p>
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbendale2004&" alt="sagarbendale2004" />
-</p>
+</p> 
+</div>
+
 
 
 
