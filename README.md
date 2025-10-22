@@ -62,6 +62,9 @@
  </a>
 </div>
 
+<h3 align="left"> Hacktoberfest Badges </h3>
+[![An image of @sagarbendale2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagarbendale2004)](https://holopin.io/@sagarbendale2004)
+
 <br/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
